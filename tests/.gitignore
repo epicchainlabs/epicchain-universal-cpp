@@ -1,0 +1,7 @@
+*~
+*.test
+*.tar.gz
+*.gcda
+*.gcno
+*.core.test
+reports/

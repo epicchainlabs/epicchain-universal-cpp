@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "${workspaceFolder}/src/common/**",
+                "${workspaceFolder}/src/neo2/*",
+                "${workspaceFolder}/src/neo2/ledger/payloads/**",
+                "${workspaceFolder}/src/neo2/plugins/**",
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/src/**",
+                "${workspaceFolder}/src/neo2/cli/**",
+                "${workspaceFolder}/src/neo2/plugins/ImportBlocks",
+                "${workspaceFolder}/libgtest/googletest/include/**",
+                "${workspaceFolder}/libgtest/googlemock/include/**"
+            ],
+            "defines": ["_DEBUG_"],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
