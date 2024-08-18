@@ -10,7 +10,7 @@ Many contemporary blockchain frameworks are built using high-level programming l
 
 #### C++ Standard
 
-In **EpicChain-Universal-Cpp**, we currently use C++11 to ensure broad compatibility with existing tools and compilers. However, we are planning to migrate to C++17 as soon as it is feasible, provided that it does not disrupt compatibility with any existing modules or tools. Adherence to the [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) is highly encouraged to maintain high standards of code quality and consistency throughout the project.
+In **EpicChain-Universal-Cpp**, we currently use C++11 to ensure broad compatibility with existing tools and compilers. However, we are planning to migrate to C++17 as soon as it is feasible, provided that it does not disrupt compatibility with any existing modules or tools. Adherence to the [CppCoreGuidelines](https://epic-chain.org/docs/) is highly encouraged to maintain high standards of code quality and consistency throughout the project.
 
 #### IDE Recommendations
 
